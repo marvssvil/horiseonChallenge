@@ -4,4 +4,5 @@
 
 ## Usage includes: SEO shortcut, Online Reputation Management shortcut, and Social Media Marketing shorcut.
 
-## Examples include: Given code was a div soup so I used different elements to make it easier to read. ```md![alt text](assets/challengesnip1.png)```
+## Examples include: Given code was a div soup so I used different elements to make it easier to read. 
+```md![alt text](assets/challengesnip1.png)```
